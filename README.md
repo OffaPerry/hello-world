@@ -1,2 +1,2 @@
 # hello-world
-Learning GitHub
+Other projects are on https://github.com/slally17
